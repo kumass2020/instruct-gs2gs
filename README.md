@@ -1,4 +1,4 @@
-# InstructGS2GS: Editing 3D Scenes with Instructions
+# Instruct-GS2GS: Editing 3D Scenes with Instructions
 
 
 ![teaser](imgs/in2n_teaser.png)
