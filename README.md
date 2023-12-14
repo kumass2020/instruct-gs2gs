@@ -46,6 +46,6 @@ Below we show results on real-world environments
 </video>
 
 ### Coming soon to Nerfstudio
-Repo: https://github.com/cvachha/instruct-gs2gs
+Repo: [https://github.com/cvachha/instruct-gs2gs](https://github.com/cvachha/instruct-gs2gs)
 
 ![nerfstudio_igs2gs](webpage_imgs\nerfstudio_igs2gs.png)
