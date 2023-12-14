@@ -40,7 +40,7 @@ Below we show results on real-world environments
 <video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/98927461-8f05-43a9-a469-ed45d5bf5eb5" muted autoplay controls playsinline loop type="video/mp4" height="450">
 </video>
 
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb" muted autoplay controls playsinline loop type="video/mp4"height="450">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb" muted autoplay controls playsinline loop type="video/mp4" height="450">
 </video>
 
 <video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/a62aaa4d-a212-4033-8fab-9dca437f4a8e" muted autoplay controls playsinline loop type="video/mp4" height="450">
