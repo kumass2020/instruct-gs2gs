@@ -3,7 +3,7 @@ Cyrus Vachha and Ayaan Haque
 
 Code: [https://github.com/cvachha/instruct-gs2gs](https://github.com/cvachha/instruct-gs2gs)
 
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/3009a2e6-be94-44da-b61e-6640dbc2039a" muted autoplay controls playsinline loop type="video/mp4" height="400">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/3009a2e6-be94-44da-b61e-6640dbc2039a" muted autoplay controls playsinline loop type="video/mp4" height="500">
 </video>
 
 
@@ -37,13 +37,13 @@ Most importantly, we find that our method outputs a reasonable result in around 
 
 
 Below we show results on real-world environments 
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/98927461-8f05-43a9-a469-ed45d5bf5eb5" muted autoplay controls playsinline loop type="video/mp4" height="400">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/98927461-8f05-43a9-a469-ed45d5bf5eb5" muted autoplay controls playsinline loop type="video/mp4" height="450">
 </video>
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb" muted autoplay controls playsinline loop type="video/mp4"height="350">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb" muted autoplay controls playsinline loop type="video/mp4"height="450">
 </video>
 <video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/a62aaa4d-a212-4033-8fab-9dca437f4a8e" muted autoplay controls playsinline loop type="video/mp4">
 </video>
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/09ce2c2e-80c0-4971-9900-179b94eb4705" muted autoplay controls playsinline loop type="video/mp4" height="500">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/09ce2c2e-80c0-4971-9900-179b94eb4705" muted autoplay controls playsinline loop type="video/mp4" height="450">
 </video>
 
 ### Coming soon to Nerfstudio!
