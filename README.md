@@ -41,4 +41,6 @@ https://github.com/cvachha/instruct-gs2gs/assets/9502341/a62aaa4d-a212-4033-8fab
 https://github.com/cvachha/instruct-gs2gs/assets/9502341/09ce2c2e-80c0-4971-9900-179b94eb4705
 
 ### Coming soon to Nerfstudio
+Repo: https://github.com/cvachha/instruct-gs2gs
 
+![nerfstudio_igs2gs](webpage_imgs\nerfstudio_igs2gs.png)
