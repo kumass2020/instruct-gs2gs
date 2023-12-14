@@ -3,7 +3,7 @@ Cyrus Vachha and Ayaan Haque
 
 Code: [https://github.com/cvachha/instruct-gs2gs](https://github.com/cvachha/instruct-gs2gs)
 
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/3009a2e6-be94-44da-b61e-6640dbc2039a" muted autoplay controls playsinline loop type="video/mp4">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/3009a2e6-be94-44da-b61e-6640dbc2039a" muted autoplay controls playsinline loop type="video/mp4" height="400">
 </video>
 
 
@@ -32,21 +32,26 @@ Our qualitative results are shown in our first video and the following results. 
 
 Most importantly, we find that our method outputs a reasonable result in around 13 min while Instruct-NeRF2NeRF takes approximately 50 min on the same scene.
 
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/bb737928-1e5b-4ee3-9e92-48429d6eb4a8" muted autoplay controls playsinline loop type="video/mp4">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/bb737928-1e5b-4ee3-9e92-48429d6eb4a8" muted autoplay controls playsinline loop type="video/mp4" height="300">
 </video>
 
 
 Below we show results on real-world environments 
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/98927461-8f05-43a9-a469-ed45d5bf5eb5" muted autoplay controls playsinline loop type="video/mp4">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/98927461-8f05-43a9-a469-ed45d5bf5eb5" muted autoplay controls playsinline loop type="video/mp4" height="400">
 </video>
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb" muted autoplay controls playsinline loop type="video/mp4">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb" muted autoplay controls playsinline loop type="video/mp4"height="350">
 </video>
 <video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/a62aaa4d-a212-4033-8fab-9dca437f4a8e" muted autoplay controls playsinline loop type="video/mp4">
 </video>
-<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/09ce2c2e-80c0-4971-9900-179b94eb4705" muted autoplay controls playsinline loop type="video/mp4">
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/09ce2c2e-80c0-4971-9900-179b94eb4705" muted autoplay controls playsinline loop type="video/mp4" height="500">
 </video>
 
-### Coming soon to Nerfstudio
+### Coming soon to Nerfstudio!
 Repo: [https://github.com/cvachha/instruct-gs2gs](https://github.com/cvachha/instruct-gs2gs)
 
 ![nerfstudio_igs2gs](webpage_imgs\nerfstudio_igs2gs.png)
+
+
+## Acknowledgements 
+
+We thank our instructors Alexei A. Efros and Angjoo Kanazawa for their support on this project. We would also like to thank the Nerfstudio and gsplat team for providing the 3D Gaussian Splatting implementation.
