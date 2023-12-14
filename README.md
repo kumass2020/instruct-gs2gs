@@ -1,7 +1,9 @@
 # Instruct-GS2GS: Editing 3D Scenes with Instructions
 Cyrus Vachha and Ayaan Haque
 
-https://github.com/cvachha/instruct-gs2gs/assets/9502341/3009a2e6-be94-44da-b61e-6640dbc2039a
+
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/3009a2e6-be94-44da-b61e-6640dbc2039a" controls="controls">
+</video>
 
 We propose a method for editing 3D Gaussian Splatting scenes with text-instructions. Our work is based largely off Instruct-NeRF2NeRF which proposes an iterative dataset update method to make consistent 3D  edits to Neural Radiance Fields given a text instruction. We propose a modified technique to adapt the editing scheme for 3D gaussian splatting scenes. We demonstrate comparable results to Instruct-NeRF2NeRF and show that our method can perform realistic global text edits on large real-world scenes and individual subjects.
 
@@ -28,17 +30,20 @@ Our qualitative results are shown in our first video and the following results. 
 
 Most importantly, we find that our method outputs a reasonable result in around 13 min while Instruct-NeRF2NeRF takes approximately 50 min on the same scene.
 
-https://github.com/cvachha/instruct-gs2gs/assets/9502341/bb737928-1e5b-4ee3-9e92-48429d6eb4a8
+
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/bb737928-1e5b-4ee3-9e92-48429d6eb4a8" controls="controls">
+</video>
+
 
 Below we show results on real-world environments 
-
-https://github.com/cvachha/instruct-gs2gs/assets/9502341/98927461-8f05-43a9-a469-ed45d5bf5eb5
-
-https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb
-
-https://github.com/cvachha/instruct-gs2gs/assets/9502341/a62aaa4d-a212-4033-8fab-9dca437f4a8e
-
-https://github.com/cvachha/instruct-gs2gs/assets/9502341/09ce2c2e-80c0-4971-9900-179b94eb4705
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/98927461-8f05-43a9-a469-ed45d5bf5eb5" controls="controls">
+</video>
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/f21c7163-1202-43a2-8b94-3b7869a5b3bb" controls="controls">
+</video>
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/a62aaa4d-a212-4033-8fab-9dca437f4a8e" controls="controls">
+</video>
+<video src="https://github.com/cvachha/instruct-gs2gs/assets/9502341/09ce2c2e-80c0-4971-9900-179b94eb4705" controls="controls">
+</video>
 
 ### Coming soon to Nerfstudio
 Repo: https://github.com/cvachha/instruct-gs2gs
