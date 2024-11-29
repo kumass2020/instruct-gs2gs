@@ -30,6 +30,9 @@ from nerfstudio.pipelines.base_pipeline import (
 )
 from igs2gs.ip2p import InstructPix2Pix
 
+from PIL import Image
+import os
+
 @dataclass
 class InstructGS2GSPipelineConfig(VanillaPipelineConfig):
     """Configuration for pipeline instantiation"""
@@ -139,6 +142,24 @@ class InstructGS2GSPipeline(VanillaPipeline):
             edited_image = edited_image.to(original_image.dtype)
             self.datamanager.cached_train[idx]["image"] = edited_image.squeeze().permute(1,2,0)
             data["image"] = edited_image.squeeze().permute(1,2,0)
+
+            ###################### save edited image
+            # Convert the edited image tensor to a PIL image
+            edited_image_np = edited_image.squeeze().permute(1, 2, 0).cpu().numpy()
+
+            # Normalize the image for saving (if necessary)
+            edited_image_np = (edited_image_np - edited_image_np.min()) / (
+                        edited_image_np.max() - edited_image_np.min())
+            edited_image_np = (edited_image_np * 255).astype("uint8")
+
+            # Create an output directory if it doesn't exist
+            output_dir = "output_edit"
+            os.makedirs(output_dir, exist_ok=True)
+
+            # Save the image as a PNG or any other format
+            output_file = os.path.join(output_dir, f"edited_image_{idx}.png")
+            Image.fromarray(edited_image_np).save(output_file)
+            ############################
 
             #increment curr edit idx
             self.curr_edit_idx += 1
